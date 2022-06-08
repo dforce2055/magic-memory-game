@@ -1,6 +1,6 @@
 # Magic Memory Game
 ### Simple Magic Memory Game with React + Typescript + Firebase
-See on https://magic-memory-game-dforce2055.firebaseapp.com/
+**DEMO:** <a href="https://magic-memory-game-dforce2055.firebaseapp.com/">https://magic-memory-game-dforce2055.firebaseapp.com/</a>
 
 ![Magic Memory Game]( magic-memory-game.png "Magic Memory Game")
 # Getting Started with Create React App
