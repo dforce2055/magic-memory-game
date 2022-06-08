@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "magic-memory-game-dforce2055",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

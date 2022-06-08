@@ -1,3 +1,8 @@
+# Magic Memory Game
+### Simple Magic Memory Game with React + Typescript + Firebase
+See on https://magic-memory-game-dforce2055.firebaseapp.com/
+
+![Magic Memory Game]( magic-memory-game.png "Magic Memory Game")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
